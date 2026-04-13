@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446187361703",
+    "project_id": "carol2-71c7d",
+    "storage_bucket": "carol2-71c7d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446187361703:android:d10037d2d58e1ad62fd282",
+        "android_client_info": {
+          "package_name": "com.example.carol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChjygIJxYcM4y2ay5hrcMYm7OsX2NpE4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
